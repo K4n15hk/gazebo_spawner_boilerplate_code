@@ -1,0 +1,2 @@
+int64 num
+bool are_motors_ready
